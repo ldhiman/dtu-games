@@ -1,0 +1,22 @@
+{
+  "name": "dtu-games",
+  "version": "1.0.0",
+  "description": "Open-source 3D WebGL games for Delhi Technological University: Prof Showdown 2.5D and 3D DTU Campus Explorer.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "lucide-react": "^0.446.0",
+    "next": "14.3.0-canary.9",
+    "react": "^18",
+    "react-dom": "^18",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
